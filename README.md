@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React Js
 - 🌱 I’m currently learning java Spring boot
 - 👯 I’m looking to collaborate on innovative Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React, python, JavaScript
 
 
