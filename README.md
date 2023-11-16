@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   <a href="https://github.com/varna7">
-    <img src="https://komarev.com/ghpvc/?username=varna7&color=blueviolet">
+   
 </a>
